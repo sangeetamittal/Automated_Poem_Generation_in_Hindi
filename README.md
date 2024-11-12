@@ -27,4 +27,10 @@ The model is fine-tuned using fit_one_cycle for three epochs, with learning rate
 **Text Generation:**
 
 After training, the model generates new lines of poetry by predicting a sequence of words based on a starting word (e.g., "बादल" or "खुशियाँ") and producing a continuation of the theme.
-This approach combines NLP preprocessing, a structured data pipeline, and a neural language model to generate poetry in Hindi based on an initial prompt.
+This approach combines NLP preprocessing, a structured data pipeline, and a neural language model to generate poetry in Hindi based on an initial prompt.  
+
+**Poster**  
+
+This is the poster I have tried to made for this project.  
+
+<img src="https://github.com/user-attachments/assets/822d6ff1-e08a-4e59-9b5f-083a0cefe2ca" width="800" height="1000">
